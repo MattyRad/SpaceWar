@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\bgLayer1.xnb</Output>
-      <Time>2012-04-02T21:38:15.8613894-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\bgLayer1.xnb</Output>
+      <Time>2012-04-27T06:05:15.2339201-07:00</Time>
     </Item>
     <Item>
       <Source>bgLayer2.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\bgLayer2.xnb</Output>
-      <Time>2012-04-02T21:38:15.8993916-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\bgLayer2.xnb</Output>
+      <Time>2012-04-27T06:05:15.2859231-07:00</Time>
     </Item>
     <Item>
       <Source>endMenu.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\endMenu.xnb</Output>
-      <Time>2012-04-02T21:38:15.9213929-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\endMenu.xnb</Output>
+      <Time>2012-04-27T06:05:15.371928-07:00</Time>
     </Item>
     <Item>
       <Source>explosion.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\explosion.xnb</Output>
-      <Time>2012-04-02T21:38:15.9543948-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\explosion.xnb</Output>
+      <Time>2012-04-27T06:05:15.4049299-07:00</Time>
     </Item>
     <Item>
       <Source>laser.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\laser.xnb</Output>
-      <Time>2012-04-07T19:47:23.8746476-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\laser.xnb</Output>
+      <Time>2012-04-21T18:34:40.7982254-07:00</Time>
     </Item>
     <Item>
       <Source>mainbackground.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\mainbackground.xnb</Output>
-      <Time>2012-04-02T21:38:15.9913969-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\mainbackground.xnb</Output>
+      <Time>2012-04-27T06:05:15.4639333-07:00</Time>
     </Item>
     <Item>
       <Source>mainMenu.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\mainMenu.xnb</Output>
-      <Time>2012-04-02T21:38:16.0223986-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\mainMenu.xnb</Output>
+      <Time>2012-04-27T06:05:15.5279369-07:00</Time>
     </Item>
     <Item>
       <Source>mine.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\mine.xnb</Output>
-      <Time>2012-04-02T21:38:16.0333993-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\mine.xnb</Output>
+      <Time>2012-04-27T21:18:47.1737989-07:00</Time>
     </Item>
     <Item>
       <Source>mineAnimation.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\mineAnimation.xnb</Output>
-      <Time>2012-04-02T21:38:16.0443999-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\mineAnimation.xnb</Output>
+      <Time>2012-04-27T06:05:15.5589387-07:00</Time>
     </Item>
     <Item>
       <Source>player.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\player.xnb</Output>
-      <Time>2012-04-07T19:46:17.714555-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\player.xnb</Output>
+      <Time>2012-04-27T21:20:18.7147597-07:00</Time>
     </Item>
     <Item>
       <Source>shipAnimation.png</Source>
@@ -97,55 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\shipAnimation.xnb</Output>
-      <Time>2012-04-02T21:38:16.0714014-07:00</Time>
-    </Item>
-    <Item>
-      <Source>Sound\explosion.wav</Source>
-      <Name>Sound\explosion</Name>
-      <Importer>WavImporter</Importer>
-      <Processor>SoundEffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Sound\explosion.xnb</Output>
-      <Time>2012-04-02T21:38:16.1084036-07:00</Time>
-    </Item>
-    <Item>
-      <Source>Sound\laserFire.wav</Source>
-      <Name>Sound\laserFire</Name>
-      <Importer>WavImporter</Importer>
-      <Processor>SoundEffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Sound\laserFire.xnb</Output>
-      <Time>2012-04-02T21:38:16.2304105-07:00</Time>
-    </Item>
-    <Item>
-      <Source>Sound\gameMusic.mp3</Source>
-      <Name>Sound\gameMusic</Name>
-      <Importer>Mp3Importer</Importer>
-      <Processor>SongProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Sound\gameMusic.xnb</Output>
-      <Extra>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Sound\gameMusic.wma</Extra>
-      <Time>2012-04-02T21:38:16.2134096-07:00</Time>
-    </Item>
-    <Item>
-      <Source>Sound\menuMusic.mp3</Source>
-      <Name>Sound\menuMusic</Name>
-      <Importer>Mp3Importer</Importer>
-      <Processor>SongProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Sound\menuMusic.xnb</Output>
-      <Extra>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Sound\menuMusic.wma</Extra>
-      <Time>2012-04-02T21:38:16.2784133-07:00</Time>
-    </Item>
-    <Item>
-      <Source>gameFont.spritefont</Source>
-      <Name>gameFont</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\gameFont.xnb</Output>
-      <Time>2012-04-02T21:38:15.9643953-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\shipAnimation.xnb</Output>
+      <Time>2012-04-27T06:05:15.5979409-07:00</Time>
     </Item>
     <Item>
       <Source>star.png</Source>
@@ -153,35 +106,73 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\star.xnb</Output>
-      <Time>2012-04-07T19:19:14.5773657-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\star.xnb</Output>
+      <Time>2012-04-26T02:02:39.5709703-07:00</Time>
     </Item>
     <Item>
-      <Source>Bitmap1.bmp</Source>
-      <Name>Bitmap1</Name>
+      <Source>enemyTwo.png</Source>
+      <Name>enemyTwo</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Bitmap1.xnb</Output>
-      <Time>2012-04-07T20:35:39.2050977-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\enemyTwo.xnb</Output>
+      <Time>2012-04-27T21:17:11.7016312-07:00</Time>
     </Item>
     <Item>
-      <Source>Bitmap2.bmp</Source>
-      <Name>Bitmap2</Name>
+      <Source>particle.png</Source>
+      <Name>particle</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Bitmap2.xnb</Output>
-      <Time>2012-04-07T20:35:50.8707649-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\particle.xnb</Output>
+      <Time>2012-04-27T21:10:18.4506549-07:00</Time>
     </Item>
     <Item>
-      <Source>enemy.png</Source>
-      <Name>enemy</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
+      <Source>Sound\explosion.wav</Source>
+      <Name>Sound\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\enemy.xnb</Output>
-      <Time>2012-04-07T19:48:08.2647097-07:00</Time>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Sound\explosion.xnb</Output>
+      <Time>2012-04-27T06:05:15.6589444-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\laserFire.wav</Source>
+      <Name>Sound\laserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Sound\laserFire.xnb</Output>
+      <Time>2012-04-27T06:05:16.2749797-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\gameMusic.mp3</Source>
+      <Name>Sound\gameMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Sound\gameMusic.xnb</Output>
+      <Extra>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Sound\gameMusic.wma</Extra>
+      <Time>2012-04-27T06:05:16.2579787-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\menuMusic.mp3</Source>
+      <Name>Sound\menuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Sound\menuMusic.xnb</Output>
+      <Extra>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\Sound\menuMusic.wma</Extra>
+      <Time>2012-04-27T06:05:16.3899862-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\gameFont.xnb</Output>
+      <Time>2012-04-27T06:05:15.423931-07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -189,10 +180,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>true</CompressContent>
-      <RootDirectory>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\ShooterContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\ShooterContent\obj\Xbox 360\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\grendel\Downloads\Shooter_Input_Xbox360\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\ShooterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\ShooterContent\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\grendel\Desktop\stable submission\Shooter\Shooter\Shooter\bin\Xbox 360\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

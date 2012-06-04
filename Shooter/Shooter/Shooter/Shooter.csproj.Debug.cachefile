@@ -9,14 +9,13 @@ Content\mine.xnb
 Content\mineAnimation.xnb
 Content\player.xnb
 Content\shipAnimation.xnb
+Content\star.xnb
+Content\enemyTwo.xnb
+Content\particle.xnb
 Content\Sound\explosion.xnb
 Content\Sound\laserFire.xnb
 Content\Sound\gameMusic.xnb
 Content\Sound\menuMusic.xnb
 Content\gameFont.xnb
-Content\star.xnb
-Content\Bitmap1.xnb
-Content\Bitmap2.xnb
-Content\enemy.xnb
 Content\Sound\gameMusic.wma
 Content\Sound\menuMusic.wma

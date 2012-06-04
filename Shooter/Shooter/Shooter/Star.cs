@@ -48,8 +48,14 @@ namespace Shooter
         }
 
 
-        public void Update()
+        public void Update(float max)
         {
+            Position.Y = Position.Y + (float)Speed;
+
+            if (Position.Y > max)
+            {
+                Position.Y = 0;
+            }
         }
 
         public void Draw(SpriteBatch spriteBatch)

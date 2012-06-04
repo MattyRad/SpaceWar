@@ -2,11 +2,12 @@ using System;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
+
 namespace Shooter
 {
+
     class Enemy
     {
-
         // Animation representing the player
         public Texture2D EnemyTexture;
 
@@ -16,11 +17,7 @@ namespace Shooter
         // State of the player
         public bool Active;
 
-        // Amount of hit points that player has
-        public int Health;
-
-        // Star speed
-        public double Speed;
+        public float enemyMoveSpeed;
 
         // Get the width of the player ship
         public int Width
@@ -45,21 +42,32 @@ namespace Shooter
             // Set the player to be active
             Active = true;
 
-            // Set the player health
-            Health = 100;
-
             Random rand = new Random();
-            Speed = rand.Next(1, 100) / 10;
+            enemyMoveSpeed = rand.Next(1, 50) / 10;
+            if (enemyMoveSpeed == 0)
+            {
+                enemyMoveSpeed = 1;
+            }
         }
 
 
-        public void Update()
+        public void Update(int bottom)
         {
+            // The enemy always moves to the left so decrement x
+            Position.Y += enemyMoveSpeed;
+
+            // If the enemy is past the screen or its health reaches 0, deactivate
+            if (Position.Y > (Height + bottom) )
+            {
+                // By setting the Active flag to false, the game will remove
+                Active = false;
+            }
         }
 
         public void Draw(SpriteBatch spriteBatch)
         {
             spriteBatch.Draw(EnemyTexture, Position, null, Color.White, 0f, Vector2.Zero, 1f, SpriteEffects.None, 0f);
         }
+
     }
 }

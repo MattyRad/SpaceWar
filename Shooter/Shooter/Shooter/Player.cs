@@ -16,9 +16,6 @@ namespace Shooter
         // State of the player
         public bool Active;
 
-        // Amount of hit points that player has
-        public int Health;
-
         // Get the width of the player ship
         public int Width
         {
@@ -41,9 +38,6 @@ namespace Shooter
 
             // Set the player to be active
             Active = true;
-
-            // Set the player health
-            Health = 100;
         }
 
 

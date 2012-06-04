@@ -92,11 +92,6 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="star.png">
-      <Name>star</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
     <Compile Include="shipAnimation.png">
       <Name>shipAnimation</Name>
       <Importer>TextureImporter</Importer>
@@ -131,22 +126,22 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bitmap1.bmp">
-      <Name>Bitmap1</Name>
+    <Compile Include="star.png">
+      <Name>star</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bitmap2.bmp">
-      <Name>Bitmap2</Name>
+    <Compile Include="enemyTwo.png">
+      <Name>enemyTwo</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="enemy.png">
-      <Name>enemy</Name>
+    <Compile Include="particle.png">
+      <Name>particle</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
